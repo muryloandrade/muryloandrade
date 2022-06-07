@@ -18,10 +18,9 @@
   <div style="display: inline_block"><br>
   
 
-  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Docker" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
     
-  <img align="center" alt="Vagrant" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
- 
-  <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Vagrant" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
+
   <img align="right" alt="Murylo-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1439953850471911426/s4pE9SYa_400x400.jpg">
 </div>
